@@ -5,7 +5,7 @@
 内容以 Windows 环境为主，适合从 STM32CubeMX 生成 CMake 工程后，希望脱离传统 IDE 或同时使用 CLion / VS Code 做嵌入式开发的同学参考。
 
 项目地址：<https://github.com/xiaoshuaijie/cmake>
-
+小站地址  <http://happyjie.cc/>
 ## 项目内容
 
 | 文档 | 说明 |
